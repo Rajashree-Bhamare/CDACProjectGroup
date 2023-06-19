@@ -1,0 +1,8 @@
+Hi, Rajashree Bhamare here !
+
+GitHub is a code hosting platform for version control and collaboration.
+It lets you and others work together on projects from anywhere.
+
+GitHub's interface is easy enough to help individuals manage other projects, such as journals. 
+Also, anybody can sign up and host a GitHub public code repository at no cost.
+That is why GitHub is especially popular with open-source projects.
