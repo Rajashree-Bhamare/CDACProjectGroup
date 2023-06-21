@@ -1,0 +1,40 @@
+Business Requiremnt Specification
+
+Author:Rajashree Bhamare( Business Analyst)
+
+Title:Online Green Market Place 
+
+Stakeholders:
+	 Customers,
+	 Suppliers(Farmers),
+	 Application admin,
+	 Employees
+
+Document generated with the help of  series of meetings  held 
+between Domain Experts and Business Analysts.
+
+First Draft : 21/06/2023
+Revised Draft: 21/06/2023
+
+Requirement:
+The majority of once-manual systems have been replaced by automated and computerised ones 
+in this new age of computers. As a result, we are creating the web-based application "Online 
+Green Market Place" for the online sale of green items like fruits and vegetables in order to 
+model the current system and eliminate its flaws. This project investigates how online web 
+applications can be utilised to address consumer and supplier issues while simultaneously giving 
+young people a chance to find jobs.
+
+Online Green Market Place is a web-based application. The application's goal is to simplify and 
+automate the process of buying green products such as fruits and vegetables. 
+The app's attempts to bring suppliers (farmers who create the items) and customers (buyers who 
+buy the products) together on a platform where suppliers can display their products and 
+consumers may buy them. 
+This application streamlines the efforts of both suppliers and customers, as the supplier can focus 
+solely on cultivation and listing his or her products on the platform, and customers can make 
+purchases directly through the collaborative platform, eliminating the need for the supplier to 
+worry about sales. 
+The website enables customers to order fresh and high-quality green items directly from the farm 
+to his doorstep. A customer can make a purchase from the comfort of his own home, saving both 
+time and effort. 
+The application intends to eliminate middlemen (mediators/dealers), reducing product delivery 
+time and cost
